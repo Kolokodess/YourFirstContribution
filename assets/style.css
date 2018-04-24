@@ -1,0 +1,29 @@
+body {
+	background-image: white;
+
+}
+
+.profile {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.card {
+	display: flex;
+	flex-direction: column;
+	border: 4px;
+	b
+}
+a:link {
+	color: blue;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+}
+
+.a, resource-links {
+	color :red;
+}
