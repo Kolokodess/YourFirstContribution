@@ -3,6 +3,11 @@ body {
 
 }
 
+.container{
+    width: 90%;
+    margin: auto;
+}
+
 .profile {
 	display: flex;
 	flex-wrap: wrap;
