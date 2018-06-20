@@ -3,6 +3,11 @@ body {
 
 }
 
+.container{
+    width: 90%;
+    margin: auto;
+}
+
 .profile {
 	display: flex;
 	flex-wrap: wrap;
@@ -13,7 +18,6 @@ body {
 	display: flex;
 	flex-direction: column;
 	border: 4px;
-	b
 }
 a:link {
 	color: blue;
